@@ -1,0 +1,1177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6640272,
+          35.6593012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bonus Track",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "img": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODA4MTgwOS9vcmlnaW5hbF9iZTExM2U2MGE4MTc0MDE3OTVmNzViMDdiYWNjYzJmZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwiZmxhdHRlbiI6eyJiYWNrZ3JvdW5kIjp7InIiOjIwMywiZyI6MjAzLCJiIjoyMDN9fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6996224,
+          35.649059,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DAIKANYAMA T-SITE",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702261,
+          35.6484348,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Forest Gate Daikanyama",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.666614,
+          35.6078347,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JIYUGAOKA de aone",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7018507,
+          35.661791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miyashita Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6701538,
+          35.6635297,
+          0
+        ]
+      },
+      "properties": {
+        "name": "reload",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7047904,
+          35.668329,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tokyu Plaza Harajuku\"HARAKADO\"",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7491539,
+          35.6668271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toranomon Hills Mori Tower",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7070377,
+          35.6674202,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cibone Aoyama",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7644253,
+          35.6694311,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CIBONE CASE",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6582379,
+          35.6021667,
+          0
+        ]
+      },
+      "properties": {
+        "name": "D&DEPARTMENT TOKYO",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7101661,
+          35.6427858,
+          0
+        ]
+      },
+      "properties": {
+        "name": "duffle with kapital",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6714152,
+          35.6082723,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dulton Jiyugaoka",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7098957,
+          35.6629471,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ｆｏｕｎｄ ＭＵＪＩ 青山",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7701399,
+          35.7235715,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hanaju",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6979319,
+          35.6620337,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hands Shibuya",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7098244,
+          35.6437093,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kapital",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7091477,
+          35.6421061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kapital Legs",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8153012,
+          35.7022277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Koganeyu",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706492,
+          35.6742288,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LABOUR AND WAIT TOKYO",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7105546,
+          35.6442445,
+          0
+        ]
+      },
+      "properties": {
+        "name": "P.F.S. PARTS CENTER",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7070369,
+          35.6742917,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PAPIER LABO.",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709059,
+          35.643802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "POST (旧limArt）",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7109476,
+          35.647707,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sarutahiko Coffee Ebisu Honten",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7025715,
+          35.6700228,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sarutahiko Coffee The Bridge",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704552,
+          35.675635
+        ]
+      },
+      "properties": {
+        "name": "Shinkenchiku-sha Co.,Ltd. Aoyama House",
+        "description": "新建築書店（POST Architecture Books） ／ 新建築社 青山ハウス",
+        "styleUrl": "#icon-1899-0288D1-labelson",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.839966,
+          35.7636876,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SKAC(SKWAT KAMEARI ART CENTRE)",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71384,
+          35.6425836,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TODAY'S SPECIAL Ebisu",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673111,
+          35.609283,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TODAY'S SPECIAL Jiyugaoka",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6999375,
+          35.7217809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "toolbox Showroom",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6997888,
+          35.6488866,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tsutaya Books Daikanyama",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6671124,
+          35.6087577,
+          0
+        ]
+      },
+      "properties": {
+        "name": "イデーショップ自由が丘店",
+        "styleUrl": "#icon-1899-0288D1-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111991,
+          35.6481737,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ebisu East Park Toilet",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7094421,
+          35.6474265,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ebisu Station West Exit Public Toilet",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002582,
+          35.6484771,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hillside Terrace",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7579015,
+          35.672454,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Imperial Hotel Tokyo",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7053747,
+          35.6667125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Omotesando Branches",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711596,
+          35.6636806,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Spiral",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7758138,
+          35.7153869,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The National Museum of Western Art",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7637532,
+          35.6767429,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tokyo International Forum",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775312,
+          35.7143937,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tokyo Metropolitan Festival Hall",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7001458,
+          35.6676472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yoyogi 1st National Gymnasium",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "img": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODA4MTgwOC9vcmlnaW5hbF84ZmVhMGU2MjEwYWRmNjA5MTdhNzA3M2M5ZDlkOTc3OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwiZmxhdHRlbiI6eyJiYWNrZ3JvdW5kIjp7InIiOjIwMywiZyI6MjAzLCJiIjoyMDN9fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.729235,
+          35.6740497,
+          0
+        ]
+      },
+      "properties": {
+        "name": "草月会館",
+        "styleUrl": "#icon-1899-7CB342-labelson-nodesc",
+        "icon-opacity": 1,
+        "icon-color": "#7cb342",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "img": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODA4MTgwOC9vcmlnaW5hbF84ZmVhMGU2MjEwYWRmNjA5MTdhNzA3M2M5ZDlkOTc3OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwiZmxhdHRlbiI6eyJiYWNrZ3JvdW5kIjp7InIiOjIwMywiZyI6MjAzLCJiIjoyMDN9fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19"
+      }
+    }
+  ]
+}
